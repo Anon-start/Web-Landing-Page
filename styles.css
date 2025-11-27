@@ -532,7 +532,7 @@ textarea {
   display: flex;
   align-items: center;        /* vertically center */
   justify-content: center;    /* horizontally center */
-  padding: 60px 20px;         /* more breathing room */
+  padding: 10px 20px;         /* more breathing room */
 }
 
 .thank-card {
@@ -650,6 +650,7 @@ textarea {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
